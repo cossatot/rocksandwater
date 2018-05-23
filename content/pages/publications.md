@@ -1,0 +1,148 @@
+Title: Publications
+
+*Last updated 1 May 2018*
+
+[CV][cv]
+
+
+[cv]: /pdfs/richard.h.styron_cv_jul_2017.pdf
+
+
+## In review
+
+1. **Styron, R.**, Garcia, J., and Pagani, M., CCAF-DB: The Caribbean and 
+   Central American Active Fault Database, submitted to *Geosphere*.
+
+1. **Styron, R.**, The impact of earthquake cycle variability on neotectonic 
+   slip rate estimates, submitted to *Solid Earth*.
+
+## In revision
+
+1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
+   with rupture length information: application to the Puget Lowland, WA USA, 
+   to be submitted to *Seismological Research Letters*, in revision following 
+   USGS internal review.
+
+1. Sundell, K., Saylor, J., Lapen, T., **Styron, R.**, Villareal, D., Usnayo, 
+   P., and Cárdenas, J., Peruvian Altiplano stratigraphy highlights 
+   along-strike variability in foreland basin evolution of the Cenozoic central 
+   Andes, submitted to *Tectonics*.
+
+
+
+## Published
+
+1. Staisch, L., Blakely, R., Kelsey, H., **Styron, R.**, and Sherrod, B., 
+   _2018_, Miocene to present-day deformation rates in central Washington, USA, 
+   Revealed by stream profiles, potential-field geophysics, and structural 
+   geology of the Yakima folds, *Tectonics*, in press.
+
+1. Staisch, L., Kelsey, K., Sherrod, B., Möller, A., Paces, J., and **Styron, 
+   R.**, Miocene-Pleistocene deformation of the Saddle Mountains: implications 
+   for seismic hazard in central Washington, USA. *Geological Society of 
+   America Bulletin*, in press, [doi: 10.1130/B31783.1][sm]. [pdf][sm_pdf]
+
+[sm]: https://pubs.geoscienceworld.org/gsabulletin/article/519222/miocene-pleistocene-deformation-of-the-saddle
+[sm_pdf]: /pdfs/staisch_et_al_2017_gsab_saddle_mtns_in_press.pdf
+
+
+1. Evans, S. L., **Styron, R. H.**, Soest, M. C., Hodges, K. V., and Hanson, A.
+   D. _2015_, Zircon and apatite (U-Th)/He evidence for Paleogene and Neogene
+   extension in the Southern Snake Range, Nevada, USA. *Tectonics*, vol. 34,
+   no. 10, 2142-2164. [doi: 10.1002/2015TC003913][ssr]. [pdf][ssr_pdf]
+
+[ssr]: http://onlinelibrary.wiley.com/doi/10.1002/2015TC003913/full
+[ssr_pdf]: /pdfs/evans_et_al_2015_tectonics_ssrd_thermochron.pdf
+
+
+1.  **Styron, R.** and Hetland, E., _2015_, The weight of the mountains:
+    Constraints on tectonic stress, friction, and fluid pressure in the 2008
+    Wenchuan earthquake from estimates of topographic loading,
+    *Journal of Geophysical Research: Solid Earth*, vol. 120, no. 4, 2697-2716.
+    [doi: 10.1002/2014JB011338][wench]. [pdf][wench_pdf]
+
+[wench]: http://onlinelibrary.wiley.com/doi/10.1002/2014JB011338/abstract
+[wench_pdf]: /pdfs/styron_hetland_2015_jgr_wenchuan_stress.pdf
+
+
+1.  **Styron, R.**, Taylor, M., and Sundell, K., _2015_, Accelerated
+    extension of the Tibetan plateau linked to the northward underthrusting of
+    Indian crust, *Nature Geoscience*, vol. 8, no. 2, p. 131-134. [doi: 10.1038/ngeo2336][lng]. [pdf][lng_pdf]
+
+[lng]: http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2336.html
+[lng_pdf]: /pdfs/styron_et_al_2015_nat_geo_lunggar_accel.pdf
+
+
+1.  **Styron, R.** and Hetland, E., _2014_, Estimated likelihood of
+    observing a large earthquake on a continental low‐angle normal fault and
+    implications for low‐angle normal fault activity, *Geophysical
+    Research Letters*, vol. 41, no. 7, [doi: 10.1002/2014GL059335][lanf]. 
+    [pdf][lanf_pdf]
+
+[lanf]: http://onlinelibrary.wiley.com/doi/10.1002/2014GL059335/abstract
+[lanf_pdf]: /pdfs/styron_hetland_2014_grl_lanf.pdf
+
+1.  McCallister, A., Taylor, M., Murphy, M., **Styron, R.**, Stockli, D., 
+    *2014*, Thermochronologic constraints on the late Cenozoic exhumation
+    history of the Gurla Mandhata metamorphic core complex, Southwestern Tibet,
+    _Tectonics_, vol. 33, p. 27-52, [doi: 10.1002/2013TC003302][gm]. 
+    [pdf][gm_pdf]
+
+[gm]: http://onlinelibrary.wiley.com/doi/10.1002/2013TC003302/abstract
+[gm_pdf]: /pdfs/mccallister_et_al_2014_tectonics_gurla_thermo.pdf
+
+
+1.  Sundell, K., Taylor, M., **Styron, R.**, Stockli, D., Kapp, P., Hager, C., 
+    Liu, D., Ding, L., _2013_, Evidence for constriction and Pliocene
+    acceleration of east-west extension in the North Lunggar rift region of 
+    west-central Tibet, Tectonics, vol. 32, no. 5, p. 1454-1479, 
+    [doi: 10.1002/tect.20086][nlr]. [pdf][nlr_pdf]
+ 
+[nlr]: http://onlinelibrary.wiley.com/doi/10.1002/tect.20086/abstract
+[nlr_pdf]: /pdfs/sundell_et_al_2013_tectonics_n_lunggar.pdf
+
+1.  **Styron, R.**, Taylor, M., Sundell, K., Stockli, D., Oalmann, J., Möller, 
+    A., McCallister, A., Liu, D., Ding, L., _2013_, Miocene initiation and 
+    acceleration of extension in the the South Lunggar rift, western Tibet: 
+    Rates, timing and magnitude of deformation of an active detachment system, 
+    _Tectonics_, vol. 32, no. 4, p. 880-907, [doi: 10.1002/tect.20053][slr]. 
+    [pdf][slr_pdf]
+
+[slr]: http://onlinelibrary.wiley.com/doi/10.1002/tect.20053/abstract
+[slr_pdf]: /pdfs/styron_et_al_2013_tectonics_south_lunggar.pdf
+
+1.  Veloza, G., **Styron, R.**, Taylor, M., Mora, A., _2012_, Active 
+    Tectonics of the Andes: An open-source archive for active faults in 
+    northwestern South America, _GSA Today_, vol. 22, no. 10, p. 4-10, 
+    [doi: 10.1130/GSAT-G156A.1][ata]. [pdf][ata_pdf]
+
+[ata]: http://rock.geosociety.org/gsatoday/archive/22/10/article/i1052-5173-22-10-4.htm
+[ata_pdf]: /pdfs/veloza_et_al_2012_gsat_ata.pdf
+
+1.  **Styron, R.**, Taylor, M., Murphy, M., _2011_, Oblique convergence, 
+    arc-parallel extension, and strike-slip faulting in the High Himalaya, 
+    _Geosphere_, vol. 7, no. 2, 587-596, [doi: 10.1130/GES00606.1][gs].
+    [pdf][gs_pdf]
+
+[gs]: http://geosphere.gsapubs.org/content/7/2/582.short
+[gs_pdf]: /pdfs/styron_et_al_2011_geosphere.pdf
+
+1.  **Styron, R.**,Taylor, M., and Okoronkwo, K., _2010_, _HimaTibetMap-1.0_: 
+    new ‘web-2.0’ online database of active structures from the Indo-Asian 
+    collision, _Eos_, vol. 91 no. 20. [doi: 10.1029/2010EO200001][es].
+    [pdf][es_pdf]
+
+[es]: http://onlinelibrary.wiley.com/doi/10.1029/2010EO200001/abstract 
+[es_pdf]: /pdfs/styron_et_al_2010_eos_himatibetmap.pdf
+
+
+## The spin cycle
+*These are the white papers and the ink-stained papers that are not in the 
+categories above but are still worth a read*
+
+1. **Styron, R.** Topographic modulation of fault kinematics in the Himalaya 
+   and Tibet, _Looking for love in all the wrong places_. [doi: 
+   10.17605/OSF.IO/8Z9HA][wnfs-topo-arxiv]. [pdf][wnfs-topo-arxiv-pdf]
+
+[wnfs-topo-arxiv]: https://eartharxiv.org/8z9ha
+[wnfs-topo-arxiv-pdf]: /pdfs/styron_wnfs_topo_stress_arxiv.pdf
