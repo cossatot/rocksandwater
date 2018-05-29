@@ -22,7 +22,7 @@ here][paper], download it and comment on it!
 
 
 
-bp: ../../01/eq-recurrence-variability-impacts-Quaternary-slip-rate-estimates/
-se: https://www.solid-earth.net/index.html
-sed: https://www.solid-earth-discuss.net
-paper: https://www.solid-earth-discuss.net/se-2018-40/
+[bp]: ../../01/eq-recurrence-variability-impacts-Quaternary-slip-rate-estimates/
+[se]: https://www.solid-earth.net/index.html
+[sed]: https://www.solid-earth-discuss.net/discussion_papers.html
+[paper]: https://www.solid-earth-discuss.net/se-2018-40/

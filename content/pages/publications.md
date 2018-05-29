@@ -10,32 +10,44 @@ Title: Publications
 
 ## In review
 
-1. **Styron, R.**, Garcia, J., and Pagani, M., CCAF-DB: The Caribbean and 
-   Central American Active Fault Database, submitted to *Geosphere*.
-
 1. **Styron, R.**, The impact of earthquake cycle variability on neotectonic 
-   slip rate estimates, submitted to *Solid Earth*.
+   slip rate estimates, submitted to *Solid Earth* [doi: 
+   10.5194/se-2018-40][eqv]. [pdf][eqv_pdf]
+
+[eqv]: https://www.solid-earth-discuss.net/se-2018-40/
+[eqv_pdf]: styron_eq_slip_rate_variability_submitted.pdf
 
 ## In revision
+
+1. **Styron, R.**, Garcia, J., and Pagani, M., CCAF-DB: The Caribbean and 
+   Central American Active Fault Database, submitted to *Geosphere*.
 
 1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
    with rupture length information: application to the Puget Lowland, WA USA, 
    to be submitted to *Seismological Research Letters*, in revision following 
    USGS internal review.
 
+
+## Published
+
 1. Sundell, K., Saylor, J., Lapen, T., **Styron, R.**, Villareal, D., Usnayo, 
    P., and Cárdenas, J., Peruvian Altiplano stratigraphy highlights 
    along-strike variability in foreland basin evolution of the Cenozoic central 
-   Andes, submitted to *Tectonics*.
+   Andes, *Tectonics*. in press, [doi: 10.1029/2017TC004775][pa]. [pdf][pa_pdf]
 
+[pa]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2017TC004775
+[pa_pdf]: /pdfs/Sundell_et_al-2017-Tectonics_manuscript.pdf
 
-
-## Published
 
 1. Staisch, L., Blakely, R., Kelsey, H., **Styron, R.**, and Sherrod, B., 
    _2018_, Miocene to present-day deformation rates in central Washington, USA, 
    Revealed by stream profiles, potential-field geophysics, and structural 
-   geology of the Yakima folds, *Tectonics*, in press.
+   geology of the Yakima folds, *Tectonics*, in press, [doi: 
+   10.1029/2017TC004916][yk]. [pdf][yk_pdf]
+
+[yk]: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017TC004916
+[yk_pdf]: /pdfs/Staisch_et_al-2018-Tectonics_manuscript.pdf
+
 
 1. Staisch, L., Kelsey, K., Sherrod, B., Möller, A., Paces, J., and **Styron, 
    R.**, Miocene-Pleistocene deformation of the Saddle Mountains: implications 
