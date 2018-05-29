@@ -1,5 +1,5 @@
 ---
-title: "Science writing: What we know vs. what we don't know"
+title: Science writing: What we know vs. what we don't know
 author: Richard Styron
 date: 2018-05-24
 slug: science-writing-what-we-know-what-we-dont
@@ -8,17 +8,18 @@ tags: science, writing, knowledge frontier
 
 Academic science writing (primarily journal articles) uses a rhetorical 
 framework that lays out a portion of some scientific discipline or natural 
-process, shows where the 'knowledge frontier' that bounds what is known and 
-what is unknown, and zooms into that frontier to answer a tidy question and 
-install a very small bit of knowledge infrastructure that extends the knowledge 
-frontier incrementally out into the wilderness. The focus is generally right at 
-the frontier, with just enough of the knowledge 'civilization' mapped out to 
-orient other scientists, and just enough of the wilderness speculated upon to 
-give some idea of where the new piece of knowledge infrastructure might lead 
-without opening the scientist up to being slapped when the future reveals 
-differently. Much of the writing, reviewing and general effort is in making 
-sure the nuts and bolts of the small scientific contribution are solid, but the 
-aims of the community are generally forward, looking out into the wilderness. 
+process, locates and describes the 'knowledge frontier' that bounds what is 
+known and what is unknown, and zooms into that frontier to answer a tidy 
+question and install a very small bit of knowledge infrastructure that extends 
+the knowledge frontier incrementally out into the wilderness. The focus is 
+generally right at the frontier, with just enough of the knowledge 
+'civilization' mapped out to orient other scientists, and just enough of the 
+wilderness speculated upon to give some idea of where the new piece of 
+knowledge infrastructure might lead without opening the scientist up to being 
+slapped when the future reveals differently. Much of the writing, reviewing and 
+general effort is in making sure the nuts and bolts of the small scientific 
+contribution are solid, but the aims of the community are generally forward, 
+looking out into the wilderness. 
 
 System constraints are largely responsible for the narrow focus of academic 
 science writing. Peer review is at the top of the list: Many reviewers (myself 

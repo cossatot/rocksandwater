@@ -4,6 +4,7 @@ Date: 2018-01-08
 Slug: the-exponential-decay-of-information
 Author: Richard Styron
 Draft: True
+status: draft
 ...
 
 

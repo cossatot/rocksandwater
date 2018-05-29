@@ -3,21 +3,19 @@ title: Very short earthquake recurrence times
 author: Richard Styron
 date: 2018-05-22
 slug: very-short-earthquake-recurrence-times
-tags: >
-      active faults, tectonics, earthquakes, statistical seismology, 
-      seismology, paleoseismology, PSHA
+tags: active faults, tectonics, earthquakes, statistical seismology, seismology, paleoseismology, PSHA, knowedge frontier
 ---
 
 The belief that earthquakes release most or all of the accumulated shear stress 
 on a fault is widespread among both scientists and the general public. It is 
-closely related to, and may stem directly from, Harry Reid's idea of elastic 
+closely related to, and may stem directly from, Henry Reid's idea of elastic 
 rebound theory: The crust slowly accumulates elastic strain until the shear 
 stress on the fault is too great for the frictional forces resisting fault 
 slip, and the fault slips suddenly, relieving the strain, at which point
 the tectonic strain begins to accumulate again, and the earthquake cycle begins 
 anew.
 
-Embedded in this framework for thinking about earthquakes the idea that the 
+Embedded in this framework for thinking about earthquakes is the idea that the 
 probability of an earthquake occurring drops to zero immediately after an 
 earthquake, and this probability slowly increases as tectonic stress increases, 
 reloading the fault. Therefore, the probability of an earthquake occurring on 
@@ -43,9 +41,9 @@ then decays exponentially with time. (You might reasonably say, "If the
 earthquakes are time-independent, then shouldn't $p(t)$ be flat?" This is 
 intuitive but incorrect; instead, the [*hazard 
 function*](https://en.wikipedia.org/wiki/Survival_analysis#Hazard_function_and_cumulative_hazard_function) 
-is flat or invariant with the time since the last event. The probability of a 
-*specific* earthquake occurring on any calendar year, not year since the last 
-event, is also flat.)
+is flat or invariant with the time since the last event. The probability of an 
+earthquake occurring on any calendar year, not year since the last event, is 
+also flat.)
 
 Hazard modelers tend to use time-independent earthquake behavior for fault 
 sources, with a few exceptions. This is generally the safest assumption as the 
