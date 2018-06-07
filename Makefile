@@ -113,7 +113,7 @@ ftp_upload: publish
 
 s3_upload: publish
 	#s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
-	aws s3 sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl public-read --delete --size-only
+	aws s3 sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl public-read --exclude ".DS_Store" --delete --size-only
 
 cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
