@@ -1,7 +1,36 @@
+@font-face {
+  font-family: 'charterbold_italic';
+  src: url('../fonts/charter_bold_italic-webfont.eot');
+  src: url('../fonts/charter_bold_italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_bold_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'charterbold';
+  src: url('../fonts/charter_bold-webfont.eot');
+  src: url('../fonts/charter_bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'charteritalic';
+  src: url('../fonts/charter_italic-webfont.eot');
+  src: url('../fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'charterregular';
+  src: url('../fonts/charter_regular-webfont.eot');
+  src: url('../fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 body {
   margin: 0;
   padding: 0;
-  font: 18px 'PT Serif', serif;
+  font-family: 'charterregular', Fallback, sans-serif;
+  font-size: 1;
   line-height: 1.6em;
   color: #222;
   text-rendering: optimizeLegibility;
@@ -20,7 +49,7 @@ a:hover {
 }
 header.main-header {
   background: none repeat scroll 0% 0% #ff4700;
-  font: 20px 'PT Serif', sans-serif;
+  font-size: 20px;
   font-weight: 500;
 }
 header.main-header a {
@@ -36,25 +65,25 @@ article {
   margin: 0;
 }
 article h1 {
-  font: 40px 'PT Serif', sans-serif;
+  font-size: 40px;
   margin-bottom: 36px;
   font-weight: bold;
   color: #000;
 }
 article h2 {
-  font: 32px 'PT Serif', sans-serif;
+  font-size: 32px;
   margin-bottom: 32px;
   font-weight: bold;
   color: #000;
 }
 article h3 {
-  font: 26 'PT Serif', sans-serif;
+  font-size: 26px;
   margin-bottom: 22px;
   font-weight: bold;
   color: #000;
 }
 article h4 {
-  font: 22px 'PT Serif', sans-serif;
+  font-size: 22px;
   margin-bottom: 18px;
   font-weight: bold;
   color: #000;
@@ -155,7 +184,7 @@ article .meta a.comments_btn:hover {
   max-width: 700px;
 }
 .index article header h2 {
-  font: 36px 'PT Serif', sans-serif;
+  font-size: 36px;
   margin-bottom: 2px;
   font-weight: 700;
 }
