@@ -60,7 +60,7 @@ DEFAULT_PAGINATION = 9
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', 'pdfs']
+STATIC_PATHS = ['images', 'pdfs', 'uploads']
 NOTEBOOK_DIR = 'content/notebooks'
 
 MARKUP = ('md', 'ipynb')
