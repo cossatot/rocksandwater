@@ -86,7 +86,7 @@ information about them.
   };
 
   var faults = L.mapbox.featureLayer()
-    .loadURL("https://raw.githubusercontent.com/cossatot/central_am_carib_faults/master/geojson/central_am_caribbean.geojson")
+    .loadURL("https://raw.githubusercontent.com/cossatot/central_am_carib_faults/master/geojson/central_am_caribbean_faults.geojson")
     .on('ready', function() {
       faults.eachLayer(function(layer) {
         var out = [];
