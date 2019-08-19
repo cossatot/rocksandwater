@@ -192,6 +192,11 @@ zoom around, click on faults, etc.
 
 </script>
 
+*The faults are colored by kinematics: blue faults are dextral, red faults are
+normal, purple faults are sinistral, black faults are reverse, and grey lines
+are contractional structures (i.e. folds) that are not mapped as faults. Green
+faults are of unknown kinematics.*
+
 
 The work itself has been quite enjoyable: a great blend of mapping (in GIS) and
 data management. I've made new active fault maps of [Central America and the
@@ -216,18 +221,55 @@ harmonization' step where spatial conflicts between faults of different
 datasets are handled (for example, competing representations of a structure or
 of an area). This is also done algorithmically, based on a hierarchy of
 datasets, and is as mutable as anything else in the process. I've done a fair
-amount of programming in ways that are quite unlike the numerical simulations 
+amount of programming in ways that are quite unlike the numerical simulations
+that I typically do.
+
+Though I did get to map a few orogens, the vast majority of the work was done by
+many previous workers. The sources of the datasets we use are below. Please note
+that as a fluidly changing project, the references below may be out of date as
+new datasets are made available that can supersede those here.
+
+Regardless, I extend my deepest gratitude to the workers in the references below
+(and the references used by those references) that have made this possible.
+
+
+Coverage Region |  Reference  |  Dataset Name (if any)
+----------------|-------------|-----------------------
+New Zealand     | [*Litchfield et al., 2014*][l14] | *none*
+East Africa     | [*Macgregor, 2015*][m15]  | *none*
+Middle East     | [*Danciu et al., 2017*][d17] | EMME
+South America   | [SARA Faults][sam]     | SARA
+Europe          | [*Woessner et al., 2015*][w15] | SHARE
+Northern Andes  | [*Veloza et al., 2012*][v12] | Active Tectonics of the Andes
+Indo-Asian Collision Zone | [*Styron et al., 2010*][s10] | HimaTibetMap
+Philippines     | PHIVOLCS/GEM compilation | *none*
+US mainland     | [*Petersen et al., 2008*][p08] | HazFaults
+Taiwan          | [*Shyu et al., 2016*][s16] | *none*
+Mexico          | [*Villegas et al., 2017*][v17] | *none*
+Southeast Asia  | Earth Observatory of Singapore | *none*
+Northeast Asia  | [*Styron et al., in prep.*][nea] | *none*
+North Africa    | [*Poggi et al., in prep*][naf]  | *none?*
+Central America and Caribbean | [*Styron et al., in revision*][ccara] | CCAF
+Global (various regions) | [*Christophersen et al., 2015*][c15] | Faulted Earth
+Global (plate boundaries) | [*Bird, 2003*][b03] | *none*
 
 
 
-
-
-
-
-
+[l14]: https://www.tandfonline.com/doi/full/10.1080/00288306.2013.854256
+[m15]: https://www.sciencedirect.com/science/article/pii/S1464343X14003240
+[d17]: https://doi.org/10.1007/s10518-017-0096-8
+[w15]: https://doi.org/10.1007/s10518-015-9795-1
+[v12]: http://www.geosociety.org/gsatoday/archive/22/10/abstract/i1052-5173-22-10-4.htm
+[s10]: http://geosphere.gsapubs.org/content/7/2/582.short
+[p08]: https://pubs.er.usgs.gov/publication/ofr20081128
+[s16]: http://tao.cgu.org.tw/index.php/articles/archive/geophysics/item/1376-tao
+[v17]: http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.3.50
+[c15]: https://link.springer.com/article/10.1007/s11069-015-1831-6
+[b03]: https://rmets.onlinelibrary.wiley.com/doi/abs/10.1029/2001GC000252
 
 
 [ccara]: {filename}../2017/carib_central_am_map.md
 [naf]: https://github.com/GEMScienceTools/n_africa_active_faults
 [nea]: https://github.com/GEMScienceTools/ne-asia-active-faults
 [sam]: https://github.com/GEMScienceTools/SARA-Active-Faults
+[mapstyle]: {filename}../2018/mapping-active-faults-for-databases.md

@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 29 May 2018*
+*Last updated 19 Aug 2019*
 
 [CV][cv]
 
@@ -10,30 +10,47 @@ Title: Publications
 
 ## In review
 
-1. **Styron, R.**, The impact of earthquake cycle variability on neotectonic 
-   slip rate estimates, submitted to *Solid Earth* [doi: 
-   10.5194/se-2018-40][eqv]. [pdf][eqv_pdf]
+1. **Styron, R.**, García-Pelaez, J., and Pagani, M., CCAF-DB: The Caribbean and
+   Central American Active Fault Database, *Natural Hazards and Earth System
+   Science*, [doi:10.5195/nhess-2019-46][ccaf], in review, 2019. [pdf][ccaf_pdf]
 
-[eqv]: https://www.solid-earth-discuss.net/se-2018-40/
-[eqv_pdf]: styron_eq_slip_rate_variability_submitted.pdf
+[ccaf]: https://doi.org/10.5194/nhess-2019-46
+[ccaf_pdf]: /pdfs/styron_et_al_2019_nhess_ccaf_submitted.pdf
 
-## In revision
-
-1. **Styron, R.**, Garcia, J., and Pagani, M., CCAF-DB: The Caribbean and 
-   Central American Active Fault Database, submitted to *Geosphere*.
 
 1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
    with rupture length information: application to the Puget Lowland, WA USA, 
-   to be submitted to *Seismological Research Letters*, in revision following 
-   USGS internal review.
+   *Bulletin of the Seismological Society of America*, in review, 2019.
 
+## In revision
+
+1. **Styron, R.** and Pagani, M. The GEM Global Active Faults Database 
+   (GAF-DB), *Earthquake Spectra*, accepted with minor revisions, 2019.
+
+2. Henremagne C. Peñarubia, Johnson, Kendra L., **Styron, R.**, Bacolcol, T. 
+   C., Sevilla, W. I. G., Perez, J. S., et al., Probabilistic Seismic Hazard 
+   Analysis model for the Philippines, *Earthquake Spectra*, accepted with minor
+   revisions, 2019. 
+
+3. Pagani, Marco, García-Pelaez, Julio, Gee, Robin, Johnson, Kendra L., Silva,
+   Vitor, Simionato, Michele, **Styron, R.**, et al., The 2018 version of the
+   Global Earthquake Model: Hazard component, *Earthquake Spectra*, accepted
+   with minor revisions, 2019.
 
 ## Published
 
+1. **Styron, R.**, The impact of earthquake cycle variability on neotectonic 
+   and paleoseismic slip rate estimates, *Solid Earth*, vol. 10, p.15-25, [doi: 
+   10.5194/se-2019-10][eqv]. [pdf][eqv_pdf]
+
+[eqv]: https://www.solid-earth.net/10/15/2019/se-10-15-2019.html
+[eqv_pdf]: /pdfs/styron_2019_eq_slip_rate_variability.pdf
+
 1. Sundell, K., Saylor, J., Lapen, T., **Styron, R.**, Villareal, D., Usnayo, 
-   P., and Cárdenas, J., Peruvian Altiplano stratigraphy highlights 
+   P., and Cárdenas, J., _2018_, Peruvian Altiplano stratigraphy highlights 
    along-strike variability in foreland basin evolution of the Cenozoic central 
-   Andes, *Tectonics*. in press, [doi: 10.1029/2017TC004775][pa]. [pdf][pa_pdf]
+   Andes, *Tectonics*, vol. 37, no. 6, p. 1876-1904, [doi: 
+   10.1029/2017TC004775][pa]. [pdf][pa_pdf]
 
 [pa]: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2017TC004775
 [pa_pdf]: /pdfs/Sundell_et_al-2017-Tectonics_manuscript.pdf
@@ -42,17 +59,18 @@ Title: Publications
 1. Staisch, L., Blakely, R., Kelsey, H., **Styron, R.**, and Sherrod, B., 
    _2018_, Miocene to present-day deformation rates in central Washington, USA, 
    Revealed by stream profiles, potential-field geophysics, and structural 
-   geology of the Yakima folds, *Tectonics*, in press, [doi: 
-   10.1029/2017TC004916][yk]. [pdf][yk_pdf]
+   geology of the Yakima folds, *Tectonics*, vol. 37, no. 6, p. 1750-1770, 
+   [doi: 10.1029/2017TC004916][yk]. [pdf][yk_pdf]
 
 [yk]: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2017TC004916
 [yk_pdf]: /pdfs/Staisch_et_al-2018-Tectonics_manuscript.pdf
 
 
 1. Staisch, L., Kelsey, K., Sherrod, B., Möller, A., Paces, J., and **Styron, 
-   R.**, Miocene-Pleistocene deformation of the Saddle Mountains: implications 
-   for seismic hazard in central Washington, USA. *Geological Society of 
-   America Bulletin*, in press, [doi: 10.1130/B31783.1][sm]. [pdf][sm_pdf]
+   R.**, _2017_, Miocene-Pleistocene deformation of the Saddle Mountains: 
+   implications for seismic hazard in central Washington, USA. *Geological 
+   Society of America Bulletin*, vol. 130, no. 3-4, p. 411-437, [doi: 
+   10.1130/B31783.1][sm]. [pdf][sm_pdf]
 
 [sm]: https://pubs.geoscienceworld.org/gsabulletin/article/519222/miocene-pleistocene-deformation-of-the-saddle
 [sm_pdf]: /pdfs/staisch_et_al_2017_gsab_saddle_mtns_in_press.pdf
