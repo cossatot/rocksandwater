@@ -141,7 +141,7 @@ fault planes is [on github][halfspace_repo].
 I have also decided to blog a paper that I'm looking to resubmit after a 
 square-peg-round-hole experience with *Geology* on how topographic stresses can 
 modulate fault kinematics in Nepal and adjacent Tibet. The blog post is 
-[here][/blog/2017/12/nepal-topo-stress-fault-kinematics/] and hopefully in 2018 
+[here](/blog/2017/12/nepal-topo-stress-fault-kinematics/) and hopefully in 2018 
 it will find its way to a journal near you.
 
 

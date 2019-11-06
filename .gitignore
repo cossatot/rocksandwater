@@ -14,3 +14,5 @@ __pycache__/
 ._*.py
 *.pid
 ._Makefile
+__pycache__
+*.pid
