@@ -5,10 +5,10 @@ Title: Bio
 (photo credit Dale Austin)
 
 
-I'm a displaced Ozarker (currently in Pavia, Italy) who enjoys hills and 
-rivers, and associated things. I have a wonderful, extremely intelligent 
-[wife][ls] and a wonderful, not-so-intelligent dog, who share my enjoyment of 
-hills and rivers.
+I'm a displaced Ozarker (currently in Santa Cruz County, California) who enjoys
+hills and rivers, and associated things. I have a wonderful, extremely
+intelligent [wife][ls] and a wonderful, not-so-intelligent dog, who share my
+enjoyment of hills and rivers.
 
 I'm also pretty into science, and before that overwhelmed my life, I was
 pretty into fiction, playing fiddle and mandolin, [riding bikes in ways that 

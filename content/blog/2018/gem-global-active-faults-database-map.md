@@ -69,37 +69,29 @@ zoom around, click on faults, etc.
 
         // faults
         var faultColors = {
-            "Normal": "red",
-            "Sinistral-Normal": "#b936ff",
-            "Normal-Sinistral": "red",
-            "Reverse": "black",
-            "Anticline": "grey",
-            "Sinistral-Reverse": "#b936ff",
-            "Blind Thrust": "black",
-            "Sinistral": "#b936ff",
-            "Reverse-Sinistral": "black",
-            "Dextral-Reverse": "blue",
-            "Dextral": "blue",
-            "Dextral-Normal": "blue",
-            "Thrust": "black",
-            "Dextral Normal": "blue",
-            "Sinistral Normal": "#b936ff",
-            "Strike-Slip": "yellow",
-            "Reverse strike-slip": "black",
-            "Thrust strike-slip": "black",
-            "Sinistral-reverse": "#b936ff",
-            "Strike-slip": "yellow",
-            "Strike-slip thrust": "yellow",
-            "Strike-slip reverse": "yellow",
-            "Dextral-reverse": "blue",
-            "Syncline": "grey",
-            "Strike-Slip-Normal": "yellow",
-            "Normal-Dextral": "red",
-            "Reverse-Dextral": "black",
-            "Strike-Slip-Reverse": "yellow",
-            "Strike Slip": "yellow",
-            "Reverse-Strike-Slip": "black",
-            "Subduction Thrust": "black",
+            'Anticline': 'grey',
+            'Blind Thrust': "black",
+            'Dextral': "blue",
+            'Dextral Transform': "blue",
+            'Dextral-Normal': "blue",
+            'Dextral-Oblique': "blue",
+            'Dextral-Reverse': "blue",
+            'Normal': "red",
+            'Normal-Dextral': "red",
+            'Normal-Sinistral': "red",
+            'Normal-Strike-Slip': "red",
+            'Reverse': "black",
+            'Reverse-Dextral': "black",
+            'Reverse-Sinistral': "black",
+            'Reverse-Strike-Slip': "black",
+            'Sinistral': "#b936ff",
+            'Sinistral Transform': "#b936ff",
+            'Sinistral-Normal': "#b936ff",
+            'Sinistral-Reverse': "#b936ff",
+            'Spreading Ridge': "red",
+            'Strike-Slip': "yellow",
+            'Subduction Thrust': "black",
+            'Syncline': "grey",
             "": "green"
         };
 
@@ -233,25 +225,25 @@ Regardless, I extend my deepest gratitude to the workers in the references below
 (and the references used by those references) that have made this possible.
 
 
-Coverage Region |  Reference  |  Dataset Name (if any)
-----------------|-------------|-----------------------
-New Zealand     | [*Litchfield et al., 2014*][l14] | *none*
-East Africa     | [*Macgregor, 2015*][m15]  | *none*
-Middle East     | [*Danciu et al., 2017*][d17] | EMME
-South America   | [SARA Faults][sam]     | SARA
-Europe          | [*Woessner et al., 2015*][w15] | SHARE
-Northern Andes  | [*Veloza et al., 2012*][v12] | Active Tectonics of the Andes
-Indo-Asian Collision Zone | [*Styron et al., 2010*][s10] | HimaTibetMap
-Philippines     | PHIVOLCS/GEM compilation | *none*
-US mainland     | [*Petersen et al., 2008*][p08] | HazFaults
-Taiwan          | [*Shyu et al., 2016*][s16] | *none*
-Mexico          | [*Villegas et al., 2017*][v17] | *none*
-Southeast Asia  | Earth Observatory of Singapore | *none*
-Northeast Asia  | [*Styron et al., in prep.*][nea] | *none*
-North Africa    | [*Poggi et al., in prep*][naf]  | *none?*
-Central America and Caribbean | [*Styron et al., in revision*][ccara] | CCAF
-Global (various regions) | [*Christophersen et al., 2015*][c15] | Faulted Earth
-Global (plate boundaries) | [*Bird, 2003*][b03] | *none*
+| Coverage Region               | Reference                             | Dataset Name (if any)         |
+| ----------------------------- | ------------------------------------- | ----------------------------- |
+| New Zealand                   | [*Litchfield et al., 2014*][l14]      | *none*                        |
+| East Africa                   | [*Macgregor, 2015*][m15]              | *none*                        |
+| Middle East                   | [*Danciu et al., 2017*][d17]          | EMME                          |
+| South America                 | [SARA Faults][sam]                    | SARA                          |
+| Europe                        | [*Woessner et al., 2015*][w15]        | SHARE                         |
+| Northern Andes                | [*Veloza et al., 2012*][v12]          | Active Tectonics of the Andes |
+| Indo-Asian Collision Zone     | [*Styron et al., 2010*][s10]          | HimaTibetMap                  |
+| Philippines                   | PHIVOLCS/GEM compilation              | *none*                        |
+| US mainland                   | [*Petersen et al., 2008*][p08]        | HazFaults                     |
+| Taiwan                        | [*Shyu et al., 2016*][s16]            | *none*                        |
+| Mexico                        | [*Villegas et al., 2017*][v17]        | *none*                        |
+| Southeast Asia                | Earth Observatory of Singapore        | *none*                        |
+| Northeast Asia                | [*Styron et al., in prep.*][nea]      | *none*                        |
+| North Africa                  | [*Poggi et al., in prep*][naf]        | *none?*                       |
+| Central America and Caribbean | [*Styron et al., in revision*][ccara] | CCAF                          |
+| Global (various regions)      | [*Christophersen et al., 2015*][c15]  | Faulted Earth                 |
+| Global (plate boundaries)     | [*Bird, 2003*][b03]                   | *none*                        |
 
 
 
