@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 26 Sept 2019*
+*Last updated 22 November 2019*
 
 [CV][cv]
 
@@ -10,19 +10,22 @@ Title: Publications
 
 ## In review
 
+1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
+   Islands, *Geophysical Journal International*, in review, 2019.
+
 1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., A
    Probabilistic Seismic Hazard Model for North Africa, *Bulletin of Earthquake
    Engineering*, in review, 2019.
-
-1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
-   Onur, T., Seismic Hazard analyses from geologic and geomorphic data: Current
-   and future challenges, *Tectonics*, in review, 2019.
 
 1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
    with rupture length information: application to the Puget Lowland, WA USA, 
    *Bulletin of the Seismological Society of America*, in review, 2019.
 
 ## In revision
+
+1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
+   Onur, T., Seismic Hazard analyses from geologic and geomorphic data: Current
+   and future challenges, *Tectonics*, in revision, 2019.
 
 1. **Styron, R.**, García-Pelaez, J., and Pagani, M., CCAF-DB: The Caribbean and
    Central American Active Fault Database, *Natural Hazards and Earth System
