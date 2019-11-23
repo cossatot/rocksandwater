@@ -28,6 +28,14 @@ crossorigin=""></script>
     <article>
         <header>
             <h1>{{ article.title }}</h1>
+
+            {% if article.subtitle %}
+                <h3>{{ article.subtitle }}</h3>
+            {% endif %}
+
+            {% if article.author %}
+                <h4>{{ article.author }}</h4>
+            {% endif %}
             <time datetime="article.date.isoformat()" pubdate>{{ article.locale_date }}</time>
         </header>
 
