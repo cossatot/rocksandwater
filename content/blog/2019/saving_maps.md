@@ -13,6 +13,8 @@ has the potential to be an absolutely monstrous file size when exported.
 
 ![]({filename}/images/2019/saving-maps/Picture1.png)
 
+<!-- PELICAN_END_SUMMARY -->
+
 First, we of course have to save it. Use File -> Export
 
 ![]({filename}/images/2019/saving-maps/Picture2.png)
@@ -69,21 +71,21 @@ file
 
 You'll notice that it's still a huge file, that's fine.
 
-![]({filename}/images/2019/saving-maps/Picture12.png)
+![]({filename}/images/2019/saving-maps/Picture13.png)
 
 To reduce the size and save as a .pdf file, open the .eps in Acrobat
 Distiller.
 
-![]({filename}/images/2019/saving-maps/Picture13.png)
+![]({filename}/images/2019/saving-maps/Picture14.png)
 
 WHOA. Check out your tiny file size.
 
-![]({filename}/images/2019/saving-maps/Picture14.png)
+![]({filename}/images/2019/saving-maps/Picture15.png)
 
 And it still looks beautiful!
 
 
-![]({filename}/images/2019/saving-maps/Picture15.png)
+![]({filename}/images/2019/saving-maps/Picture16.png)
 
 
 [lms]: https://www.usgs.gov/staff-profiles/lydia-m-staisch
