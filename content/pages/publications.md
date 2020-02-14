@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 22 November 2019*
+*Last updated 13 February 2020*
 
 [CV][cv]
 
@@ -10,37 +10,25 @@ Title: Publications
 
 ## In review
 
-1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
-   Islands, *Geophysical Journal International*, in review, 2019.
-
-1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., A
-   Probabilistic Seismic Hazard Model for North Africa, *Bulletin of Earthquake
-   Engineering*, in review, 2019.
-
 1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
    with rupture length information: application to the Puget Lowland, WA USA, 
    *Bulletin of the Seismological Society of America*, in review, 2019.
 
 ## In revision
 
+1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
+   Islands, *Geophysical Journal International*, in review, 2019.
+
+1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., A
+   Probabilistic Seismic Hazard Model for North Africa, *Bulletin of Earthquake
+   Engineering*, in revision, 2019.
+
 1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
    Onur, T., Seismic Hazard analyses from geologic and geomorphic data: Current
    and future challenges, *Tectonics*, in revision, 2019.
 
-1. **Styron, R.**, García-Pelaez, J., and Pagani, M., CCAF-DB: The Caribbean and
-   Central American Active Fault Database, *Natural Hazards and Earth System
-   Science*, [doi:10.5195/nhess-2019-46][ccaf], in revision, 2019. [pdf][ccaf_pdf]
-
-[ccaf]: https://doi.org/10.5194/nhess-2019-46
-[ccaf_pdf]: /pdfs/styron_et_al_2019_nhess_ccaf_submitted.pdf
-
 1. **Styron, R.** and Pagani, M. The GEM Global Active Faults Database 
    (GAF-DB), *Earthquake Spectra*, accepted with minor revisions, 2019.
-
-1. Pagani, Marco, García-Pelaez, Julio, Gee, Robin, Johnson, Kendra L., Silva,
-   Vitor, Simionato, Michele, **Styron, R.**, et al., The 2018 version of the
-   Global Earthquake Model: Hazard component, *Earthquake Spectra*, accepted
-   with minor revisions, 2019.
 
 ## In Press
 
@@ -48,6 +36,18 @@ Title: Publications
    C., Sevilla, W. I. G., Perez, J. S., et al., Probabilistic Seismic Hazard 
    Analysis model for the Philippines, *Earthquake Spectra*, in press, 2019. 
 
+1. **Styron, R.**, García-Pelaez, J., and Pagani, M., CCAF-DB: The Caribbean 
+   and
+   Central American Active Fault Database, *Natural Hazards and Earth System
+   Science*, [doi:10.5195/nhess-2019-46][ccaf], in press, 2020. [pdf][ccaf_pdf]
+
+[ccaf]: https://doi.org/10.5194/nhess-2019-46
+[ccaf_pdf]: /pdfs/styron_et_al_2019_nhess_ccaf_submitted.pdf
+
+1. Pagani, Marco, García-Pelaez, Julio, Gee, Robin, Johnson, Kendra L., Silva,
+   Vitor, Simionato, Michele, **Styron, R.**, et al., The 2018 version of the
+   Global Earthquake Model: Hazard component, *Earthquake Spectra*, in press,
+   2020.
 
 ## Published
 
