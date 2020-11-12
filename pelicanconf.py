@@ -69,6 +69,7 @@ MARKUP = ('md', 'ipynb')
 PLUGIN_PATHS= ["../pelican-plugins/", "plugins"]
 PLUGINS = ['ipynb.liquid', 
            'render_math',
+           'liquid_tags.video',
            #'pelican_javascript',
            #'pelican-dynamic',
            'summary']#, 'liquid_tags.notebook']
