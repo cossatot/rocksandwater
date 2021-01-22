@@ -29,8 +29,8 @@ SOCIAL = None
 #GITHUB_USERNAME = 'cossatot'
 #TWITTER_USERNAME = 'earthanalysis'
 
-DISQUS_SITENAME = 'rocksandwater'
-DISQUS_SHORTNAME = 'rocksandwater'
+#DISQUS_SITENAME = 'rocksandwater'
+#DISQUS_SHORTNAME = 'rocksandwater'
 #GOOGLE_ANALYTICS = 'UA-46638714-1'
 
 

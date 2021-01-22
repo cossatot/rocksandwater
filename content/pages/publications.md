@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 29 Septemberr 2020*
+*Last updated 16 December 2020*
 
 [CV][cv]
 
@@ -14,29 +14,47 @@ Title: Publications
 
 ## In revision
 
-1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
-   Islands, *Geophysical Journal International*, in revision, 2020.
+*None at the moment*
 
 ## In Press
 
+
 1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
    with rupture length information: application to the Puget Lowland, WA USA, 
-   *Bulletin of the Seismological Society of America*, accepted, 2020.
+   *Bulletin of the Seismological Society of America*, in press, 2020. [doi: 
+   10.1785/0120200193][pug_doi]. [pdf][pug_pdf]
+
+[pug_doi]: https://doi.org/10.1785/0120200193
+[pug_pdf]: /pdfs/styron_sherrod_bssa_puget_eq_mags.pdf
+
+1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
+   Islands, *Geophysical Journal International*, in press, 2020. [doi: 
+   10.1093/gji/ggaa530][pac_doi]. [pdf][pac_pdf]
+
+[pac_doi]: https://doi.org/10.1093/gji/ggaa530
+[pac_pdf]: /pdfs/johnson_et_al_2020_gji_pac_psha_accepted.pdf
+
+## Published
 
 1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
-   Onur, T., Seismic Hazard analyses from geologic and geomorphic data: Current
-   and future challenges, *Tectonics*, in press, 2020.
+   Onur, T., Seismic Hazard Analyses from Geologic and Geomorphic Data: Current
+   and future challenges, *Tectonics*, vol. 39, no. 10, 2020. [doi: 
+   10.1029/2018TC005365][mor_doi]. [pdf][mor_pdf]
 
+[mor_doi]: https://doi.org/10.1029/2018TC005365
+[mor_pdf]: /pdfs/morell_et_al_2020_tectonics_psha.pdf
 
 1. **Styron, R.** and Pagani, M. _2020_, The GEM Global Active Faults Database 
-   (GAF-DB), *Earthquake Spectra*, in press.  [pdf][gaf_pdf]
+   (GAF-DB), *Earthquake Spectra*, vol 36. , no. 1_suppl, [doi: 
+   10.1177/8755293020944182][gaf_doi]. [pdf][gaf_pdf]
 
+[gaf_doi]: https://doi.org/10.1177/8755293020944182
 [gaf_pdf]: /pdfs/styron_pagani_gaf_spectra_accepted.pdf
    
 1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., A
    Probabilistic Seismic Hazard Model for North Africa, *Bulletin of Earthquake
-   Engineering*, in press, 2020. [DOI: 10.1007/s10518-020-00820-4][naf_doi] 
-   [pdf][naf_pdf]
+   Engineering*, vol. 18, p. 2917-2951, 2020. [doi: 
+   10.1007/s10518-020-00820-4][naf_doi]. [pdf][naf_pdf]
 
 [naf_doi]: https://doi.org/10.1007/s10518-020-00820-4
 [naf_pdf]: /pdfs/poggi_et_al_2020_beee_naf_hazard.pdf
@@ -44,15 +62,16 @@ Title: Publications
 
 1. Pagani, Marco, García-Pelaez, Julio, Gee, Robin, Johnson, Kendra L., Silva,
    Vitor, Simionato, Michele, **Styron, R.**, et al., The 2018 version of the
-   Global Earthquake Model: Hazard component, *Earthquake Spectra*, in press,
-   2020.
+   Global Earthquake Model: Hazard component, *Earthquake Spectra*, vol. 36, 
+   no. 1_suppl, 2020. [doi: 10.1177/8755293020931866][gem_doi]. [pdf][gem_pdf]
 
-## Published
+[gem_doi]: https://doi.org/10.1177/8755293020931866
+[gem_pdf]: /pdfs/pagani_et_al_2020_spectra_gem_hazard_mosaic.pdf
 
 1. **Styron, R.**, García-Pelaez, J., and Pagani, M., _2020_, CCAF-DB: The 
    Caribbean and
    Central American Active Fault Database, *Natural Hazards and Earth System
-   Science*, vol. 20, p.831-857, [doi:10.5195/nhess-200-831-2020][ccaf]. 
+   Science*, vol. 20, p.831-857, [doi: 10.5195/nhess-200-831-2020][ccaf]. 
    [pdf][ccaf_pdf]
 
 [ccaf]: https://doi.org/10.5194/nhess-20-831-2020
@@ -61,8 +80,9 @@ Title: Publications
 
 1. Henremagne C. Peñarubia, Johnson, Kendra L., **Styron, R.**, Bacolcol, T. 
    C., Sevilla, W. I. G., Perez, J. S., et al., Probabilistic Seismic Hazard 
-   Analysis model for the Philippines, *Earthquake Spectra*, [DOI: 
-   10.1177/8755293019900521][phl_doi], in press, 2020. [pdf][phl_pdf]
+   Analysis model for the Philippines, *Earthquake Spectra*, [doi: 
+   10.1177/8755293019900521][phl_doi], vol. 36, no. 1_suppl, 2020. 
+   [pdf][phl_pdf]
 
 [phl_doi]: https://journals.sagepub.com/doi/full/10.1177/8755293019900521
 [phl_pdf]: /pdfs/peñarubia_et_al_2020_spectra_phl.pdf
