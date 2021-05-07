@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 16 December 2020*
+*Last updated 9 April 2020*
 
 [CV][cv]
 
@@ -18,27 +18,28 @@ Title: Publications
 
 ## In Press
 
+*None at the moment*
 
-1. **Styron, R.** and Sherrod, B, Improving paleoseismic magnitude estimates 
-   with rupture length information: application to the Puget Lowland, WA USA, 
-   *Bulletin of the Seismological Society of America*, in press, 2020. [doi: 
-   10.1785/0120200193][pug_doi]. [pdf][pug_pdf]
+## Published
+
+1. **Styron, R.** and Sherrod, B, _2021_, Improving paleoseismic magnitude 
+   estimates with rupture length information: application to the Puget Lowland, 
+   WA USA, *Bulletin of the Seismological Society of America*, vol. 111, no. 2, 
+   p. 1139-1153. [doi: 10.1785/0120200193][pug_doi]. [pdf][pug_pdf]
 
 [pug_doi]: https://doi.org/10.1785/0120200193
 [pug_pdf]: /pdfs/styron_sherrod_bssa_puget_eq_mags.pdf
 
-1. Johnson, K., Pagani, M., and ** Styron, R.**, PSHA of the southern Pacific 
-   Islands, *Geophysical Journal International*, in press, 2020. [doi: 
-   10.1093/gji/ggaa530][pac_doi]. [pdf][pac_pdf]
+1. Johnson, K., Pagani, M., and ** Styron, R.**, _2021_, PSHA of the southern 
+   Pacific Islands, *Geophysical Journal International*, vol. 224, no. 3, p. 
+   2149-2172. [doi: 10.1093/gji/ggaa530][pac_doi]. [pdf][pac_pdf]
 
 [pac_doi]: https://doi.org/10.1093/gji/ggaa530
 [pac_pdf]: /pdfs/johnson_et_al_2020_gji_pac_psha_accepted.pdf
 
-## Published
-
 1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
-   Onur, T., Seismic Hazard Analyses from Geologic and Geomorphic Data: Current
-   and future challenges, *Tectonics*, vol. 39, no. 10, 2020. [doi: 
+   Onur, T., _2020_, Seismic Hazard Analyses from Geologic and Geomorphic Data: 
+   Current and future challenges, *Tectonics*, vol. 39, no. 10. [doi: 
    10.1029/2018TC005365][mor_doi]. [pdf][mor_pdf]
 
 [mor_doi]: https://doi.org/10.1029/2018TC005365
@@ -51,9 +52,9 @@ Title: Publications
 [gaf_doi]: https://doi.org/10.1177/8755293020944182
 [gaf_pdf]: /pdfs/styron_pagani_gaf_spectra_accepted.pdf
    
-1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., A
-   Probabilistic Seismic Hazard Model for North Africa, *Bulletin of Earthquake
-   Engineering*, vol. 18, p. 2917-2951, 2020. [doi: 
+1. Poggi, V., Garcia-Peláez, J., **Styron, R.**, Pagani, M., and Gee, R., 
+   _2020_, A Probabilistic Seismic Hazard Model for North Africa, *Bulletin of 
+   Earthquake Engineering*, vol. 18, p. 2917-2951. [doi: 
    10.1007/s10518-020-00820-4][naf_doi]. [pdf][naf_pdf]
 
 [naf_doi]: https://doi.org/10.1007/s10518-020-00820-4
@@ -61,9 +62,10 @@ Title: Publications
 
 
 1. Pagani, Marco, García-Pelaez, Julio, Gee, Robin, Johnson, Kendra L., Silva,
-   Vitor, Simionato, Michele, **Styron, R.**, et al., The 2018 version of the
+   Vitor, Simionato, Michele, **Styron, R.**, et al., _2020_, The 2018 version 
+   of the
    Global Earthquake Model: Hazard component, *Earthquake Spectra*, vol. 36, 
-   no. 1_suppl, 2020. [doi: 10.1177/8755293020931866][gem_doi]. [pdf][gem_pdf]
+   no. 1_suppl. [doi: 10.1177/8755293020931866][gem_doi]. [pdf][gem_pdf]
 
 [gem_doi]: https://doi.org/10.1177/8755293020931866
 [gem_pdf]: /pdfs/pagani_et_al_2020_spectra_gem_hazard_mosaic.pdf
