@@ -3,7 +3,7 @@ title: Block model of greater Tibetan deformation in Javascript
 author: Richard Styron
 date: 2020-11-23
 slug: tibet-blocks-js
-tags: geology, gis, tectonics, Tibet
+tags: geology, gis, tectonics, Tibet, geodesy
 ---
 
 

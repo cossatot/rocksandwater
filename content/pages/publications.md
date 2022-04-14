@@ -1,6 +1,6 @@
 Title: Publications
 
-*Last updated 9 April 2020*
+*Last updated 9 April 2021*
 
 [CV][cv]
 
@@ -37,7 +37,7 @@ Title: Publications
 [pac_doi]: https://doi.org/10.1093/gji/ggaa530
 [pac_pdf]: /pdfs/johnson_et_al_2020_gji_pac_psha_accepted.pdf
 
-1. Morell, K., Stirling, M., Griffin, J., Archuleta, R., **Styron, R.**, and
+1. Morell, K., **Styron, R.**, Stirling, M., Griffin, J., Archuleta, R., and
    Onur, T., _2020_, Seismic Hazard Analyses from Geologic and Geomorphic Data: 
    Current and future challenges, *Tectonics*, vol. 39, no. 10. [doi: 
    10.1029/2018TC005365][mor_doi]. [pdf][mor_pdf]

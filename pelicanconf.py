@@ -38,7 +38,9 @@ MENUITEMS = [('About', '/about/'),
              ('Bio', '/bio/'),
              ('Research', '/research/'),
              ('Publications', '/publications/'),
-             ('Archives', '/archives.html')]
+             ('Global Block Model', '/global-block-model/'),
+             ('Archives', '/archives.html'),
+             ]
 
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
