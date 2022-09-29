@@ -202,7 +202,7 @@ boundary is defined mostly by the Motagua-Polochic Fault Zone, which dies out
 near the Pacific coast and may merge with the Tonalá fault in Chiapas.
 
 [![Active faults of northern Central 
-America]({filename}/images/2017/c_am_fault_map_lo.png)]({filename}/images/2017/c_am_fault_map.png)
+America]({static}/images/2017/c_am_fault_map_lo.png)]({static}/images/2017/c_am_fault_map.png)
 
 Christine Authemayou has written a few papers on this, summarizing the 
 possibilities for how the pieces fit together here [[*Authemayou et al., 
@@ -282,7 +282,7 @@ United States Agency for International Development (USAID.) The contents of
 this study are the sole responsibility of the GEM Foundation and do not
 necessarily reflect the views of USAID or the United States Government.*
 
-[![USAID]({filename}/images/pages/usaid-logo.png)](https://www.usaid.gov)
+[![USAID]({static}/images/pages/usaid-logo.png)](https://www.usaid.gov)
 
 [gem]: https://www.globalquakemodel.org
 [gem-gh]: https://github.com/GEMScienceTools/central_am_carib_faults

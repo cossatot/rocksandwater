@@ -62,7 +62,7 @@ Basin. TF=Talphi Fault. TDF=Tibrikot-Dogari Faults. BGF=Bari Gad Fault. Focal
 mechanisms from the GCMT Catalog (Ekström et al. 2012). Faults modified from 
 HimaTibetMap v. 1.2 (Styron et al. 2010).*
 
-[wnfs-maps]: {filename}/images/2017/wnfs_tib_maps.svg
+[wnfs-maps]: {static}/images/2017/wnfs_tib_maps.svg
 
 These observations and hypotheses concern entire orogens. Whether they apply at 
 smaller scales is a natural question, though unaddressed. The analytical model 
@@ -185,7 +185,7 @@ between stress, topography and faulting. $\sigma_{H}$ and $\sigma_{h}$
 region though $\sigma_{V}$ varies with topography, changing fault
 kinematics.*
 
-[fig_block]: {filename}/images/2017/topo_kinematic_block_diagram.svg
+[fig_block]: {static}/images/2017/topo_kinematic_block_diagram.svg
 
 First, this problem is inherently three-dimensional. Faults of all kinematic 
 types in the Himalaya and Tibet accommodate ~N-S shortening, ~E-W extension, or 
@@ -300,7 +300,7 @@ are not working against topography in the Himalaya.
 
 [![Tectonic stress results][fig_T_results]][fig_T_results]
 
-[fig_T_results]: {filename}/images/2017/wnfs_tect_stress_hists.svg
+[fig_T_results]: {static}/images/2017/wnfs_tect_stress_hists.svg
 
 *__Figure 3A__: Scatterplot with marginal histograms of the inversion results
 for $T_{\max}$ and $T_{\min}$. __B__: Rose diagram for $T_{\text{az}}$.*
@@ -332,7 +332,7 @@ deformation field.
 
 [![Figure S1 A,B][fig_s1]][fig_s1]
 
-[fig_s1]: {filename}/images/2017/wnfs_s1.svg
+[fig_s1]: {static}/images/2017/wnfs_s1.svg
 
 *__Figure S1 A__: Maps of south-central Tibet and the Nepal Himalaya showing 
 the goodness of fit of the model results.  __B__: Map of the results for the 
@@ -366,7 +366,7 @@ drop was not complete.
 
 [![Figure S1 C, D][fig_s2]][fig_s2]
 
-[fig_s2]: {filename}/images/2017/wnfs_s2.svg
+[fig_s2]: {static}/images/2017/wnfs_s2.svg
 
 *__Figure S1 C__: Map of the Gurla Mandhata detachment showing the observed and 
 modeled rakes, and fault mesh.  __D__: Map of the Tibrikot-Dogari fault showing 

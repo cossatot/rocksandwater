@@ -30,7 +30,7 @@ thousand years (which is about the mean recurrence time for some of the slower
 faults). 
 
 [![UCERF 3 paleoseismic 
-data]({filename}/images/2018/ucerf_paleo_eqs.png)]({filename}/images/2018/ucerf_paleo_eqs.png)
+data]({static}/images/2018/ucerf_paleo_eqs.png)]({static}/images/2018/ucerf_paleo_eqs.png)
 *Figure 1: Histogram of known of paleoearthquakes with time over the past 
 ~15,000 years in California. Bin width is 500 years.*
 
@@ -40,7 +40,7 @@ In this plot, I made an eyeball fit of an exponential decay curve that more or
 less matches the histgram bins:
 
 [![exponential decay of 
-information]({filename}/images/2018/paleo_eqs_exp_decay.png)]({filename}/images/2018/paleo_eqs_exp_decay.png)
+information]({static}/images/2018/paleo_eqs_exp_decay.png)]({static}/images/2018/paleo_eqs_exp_decay.png)
 
 This curve has a decay constant of 1/1500, or that a given earthquake rupture 
 has a 50% probability of being lost (eroded, buried or otherwise obscured) 

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
+import io
 
 AUTHOR = 'Richard Styron'
 SITENAME = 'Rocks and Water'
@@ -63,18 +64,28 @@ DEFAULT_PAGINATION = 9
 RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'pdfs', 'uploads', 'js']
-NOTEBOOK_DIR = 'content/notebooks'
+#NOTEBOOK_DIR = 'content/notebooks'
+NOTEBOOK_DIR = ''
 
 MARKUP = ('md', 'ipynb')
 
 #plugins
-PLUGIN_PATHS= ["../pelican-plugins/", "plugins"]
-PLUGINS = ['ipynb.liquid', 
-           'render_math',
-           'liquid_tags.video',
-           #'pelican_javascript',
-           #'pelican-dynamic',
-           'summary']#, 'liquid_tags.notebook']
+#from pelican.plugins import liquid_tags
+#from pelican_jupyter import liquid as nb_liquid
+#PLUGIN_PATHS= ["../pelican-plugins/", "plugins", nb_liquid]
+#PLUGINS = [#'ipynb.liquid', 
+#           'render_math',
+#           'liquid_tags.video',
+#           #'pelican_javascript',
+#           #'pelican-dynamic',
+#           'summary']#, 'liquid_tags.notebook']
+
+EXTRA_HEADER = io.open("_nb_header.html", encoding="utf-8").read()
+
+LIQUID_TAGS = ['video', 'notebook']
+
+IGNORE_FILES = [".ipynb_checkpoints"]
+
 
 THEME = 'themes/new'
 #THEME = '../themes/pelican-octopress-theme'

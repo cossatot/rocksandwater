@@ -103,7 +103,7 @@ strike-slip events, which may tell us that slabs deform because they stretch or
 are compressed down-dip as they pass through different densities of mantle, but 
 aren't torqued or twisted sideways.
 
-[gcmt_1]: {filename}/images/2018/gcmt_rake_dip_1.png
-[gcmt_2]: {filename}/images/2018/gcmt_rake_dip_2.png
+[gcmt_1]: {static}/images/2018/gcmt_rake_dip_1.png
+[gcmt_2]: {static}/images/2018/gcmt_rake_dip_2.png
 
 

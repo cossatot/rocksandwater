@@ -28,7 +28,7 @@ zero, i.e. $p(0) = 0$, and $p(t)$ is also low while $t$ is less than half of
 the mean recurrence interval (Figure 1). 
 
 ![Recurrence interval 
-distributions]({filename}/images/2018/matthews_recurrence.png)
+distributions]({static}/images/2018/matthews_recurrence.png)
 *Figure 1: Common earthquake recurrence interval distributions, from Matthews 
 et al. 2002, BSSA. '1.0' on the x-axis is the mean recurrence time for each 
 distribution. A: Probability density functions. 
@@ -93,7 +93,7 @@ time isn't recognizable in a paleoseismic trench. Check out this picture of GEM
 Hazard modeler and fun-haver Kendra Johnson on the Monte Vettore Fault:
 
 [![Kendra and the 
-fault]({filename}/images/2018/kendra_vettore.jpg)]({filename}/images/2018/kendra_vettore.jpg)
+fault]({static}/images/2018/kendra_vettore.jpg)]({static}/images/2018/kendra_vettore.jpg)
 *Figure 2: Kendra Johnson at the Vettore Fault, October 2017. The light-colored 
 rock surface here is the exposed rupture surface from the 2016 Amatrice and 
 Norcia earthquakes. The lightest band, above her hand, shows ~20 cm slip during 

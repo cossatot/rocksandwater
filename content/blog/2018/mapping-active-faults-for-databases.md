@@ -360,6 +360,6 @@ education can be built quickly in a GIS platform. Two basic principles apply:
 [Northeastern Asia]: https://github.com/GEMScienceTools/ne-asia-active-faults
 [ata]: https://github.com/ActiveTectonicsAndes/ATA
 [HimaTibetMap]: https://github.com/HimaTibetMap/HimaTibetMap
-[ruby_svg]: {filename}/images/2018/ruby_compare_big.svg
+[ruby_svg]: {static}/images/2018/ruby_compare_big.svg
 [Qfaults]: https://earthquake.usgs.gov/hazards/qfaults/
-[gpkg_db]: {filename}/uploads/master_df_schema.gpkg
+[gpkg_db]: {static}/uploads/master_df_schema.gpkg

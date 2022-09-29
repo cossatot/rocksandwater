@@ -11,81 +11,81 @@ slug: high-resolution-maps-low-file-size-arcgis-adobe
 Here is a map! It's LiDAR and scaled to a poster size of 45"x30" -- it
 has the potential to be an absolutely monstrous file size when exported.
 
-![]({filename}/images/2019/saving-maps/Picture1.png)
+![]({static}/images/2019/saving-maps/Picture1.png)
 
 <!-- PELICAN_END_SUMMARY -->
 
 First, we of course have to save it. Use File -> Export
 
-![]({filename}/images/2019/saving-maps/Picture2.png)
+![]({static}/images/2019/saving-maps/Picture2.png)
 
 Change the resolution to 300 DPI (usually sufficient!) and save as an
 .ai file.
 
-![]({filename}/images/2019/saving-maps/Picture3.png)
+![]({static}/images/2019/saving-maps/Picture3.png)
 
 Your new .ai file will be large, but we'll fix that soon.
 
-![]({filename}/images/2019/saving-maps/Picture4.png)
+![]({static}/images/2019/saving-maps/Picture4.png)
 
 Open your new .ai file in Adobe Illustrator. In the "Layers" tab, you
 can find the raster of your topographic layer. It's usually called
 "Image"
 
-![]({filename}/images/2019/saving-maps/Picture5.png)
+![]({static}/images/2019/saving-maps/Picture5.png)
 
 Annoyingly, the rasters are all saved as these tiny horizontal strips.
 Gross!
 
-![]({filename}/images/2019/saving-maps/Picture6.png)
+![]({static}/images/2019/saving-maps/Picture6.png)
 
 To fix that, we first need to remove the clipping masks. Go to Select
 Object Clipping Masks. This will select all the masks in your .ai file.
 Then, simply press Delete.
 
-![]({filename}/images/2019/saving-maps/Picture7.png)
+![]({static}/images/2019/saving-maps/Picture7.png)
 
 Now you can select all these tiny horizontal rasters easily.
 
-![]({filename}/images/2019/saving-maps/Picture8.png)
+![]({static}/images/2019/saving-maps/Picture8.png)
 
 Next, you want to Rasterize these layers, effectively making one raster
 out of many. Go to Object -> Rasterize.
 
-![]({filename}/images/2019/saving-maps/Picture9.png)
+![]({static}/images/2019/saving-maps/Picture9.png)
 
 Then select the resolution. Again, 300 is good. No reason to set it
 higher than what you initially saved it as. Also select "Transparent"
 for the background.
 
-![]({filename}/images/2019/saving-maps/Picture10.png)
+![]({static}/images/2019/saving-maps/Picture10.png)
 
 If you want a higher resolution, just chose "Other" and type it in.
 
-![]({filename}/images/2019/saving-maps/Picture11.png)
+![]({static}/images/2019/saving-maps/Picture11.png)
 
 Once you've made all the changes you want to the map, save it as an .eps
 file
 
-![]({filename}/images/2019/saving-maps/Picture12.png)
+![]({static}/images/2019/saving-maps/Picture12.png)
 
 You'll notice that it's still a huge file, that's fine.
 
-![]({filename}/images/2019/saving-maps/Picture13.png)
+![]({static}/images/2019/saving-maps/Picture13.png)
 
 To reduce the size and save as a .pdf file, open the .eps in Acrobat
 Distiller.
 
-![]({filename}/images/2019/saving-maps/Picture14.png)
+![]({static}/images/2019/saving-maps/Picture14.png)
 
 WHOA. Check out your tiny file size.
 
-![]({filename}/images/2019/saving-maps/Picture15.png)
+![]({static}/images/2019/saving-maps/Picture15.png)
 
 And it still looks beautiful!
 
 
-![]({filename}/images/2019/saving-maps/Picture16.png)
+![]({static}/images/2019/saving-maps/Picture16.png)
 
 
 [lms]: https://www.usgs.gov/staff-profiles/lydia-m-staisch

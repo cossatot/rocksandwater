@@ -260,8 +260,8 @@ Regardless, I extend my deepest gratitude to the workers in the references below
 [b03]: https://rmets.onlinelibrary.wiley.com/doi/abs/10.1029/2001GC000252
 
 
-[ccara]: {filename}../2017/carib_central_am_map.md
+[ccara]: {static}../2017/carib_central_am_map.md
 [naf]: https://github.com/GEMScienceTools/n_africa_active_faults
 [nea]: https://github.com/GEMScienceTools/ne-asia-active-faults
 [sam]: https://github.com/GEMScienceTools/SARA-Active-Faults
-[mapstyle]: {filename}../2018/mapping-active-faults-for-databases.md
+[mapstyle]: {static}../2018/mapping-active-faults-for-databases.md

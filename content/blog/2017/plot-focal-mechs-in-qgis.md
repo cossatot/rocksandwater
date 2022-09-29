@@ -275,13 +275,13 @@ although I rarely do this.
 [qcmt]:http://www.ldeo.columbia.edu/~gcmt/projects/CMT/catalog/NEW_QUICK/qcmt.ndk
 [bb_script]:https://github.com/cossatot/gcmt_utils/blob/gem_desktop/scripts/make_bbs_from_sql.py
 
-[style-png]:  {filename}/images/2017/qgis-style-menu.png
-[marker-png]: {filename}/images/2017/qgis-marker-menu.png
-[fem-png]: {filename}/images/2017/qgis-file-expression-menu.png
+[style-png]:  {static}/images/2017/qgis-style-menu.png
+[marker-png]: {static}/images/2017/qgis-marker-menu.png
+[fem-png]: {static}/images/2017/qgis-file-expression-menu.png
 
 [bb-color]:https://github.com/cossatot/gcmt_utils/blob/gem_desktop/gcmt_utils/gcmt_utils.py#L237
 
-[fm-map]: {filename}/images/2017/qgis-fm-map.png
-[andes-fms]: {filename}/images/2017/qgis-andes-fms.png
-[qgis-rules]: {filename}/images/2017/qgis-rules.png
+[fm-map]: {static}/images/2017/qgis-fm-map.png
+[andes-fms]: {static}/images/2017/qgis-andes-fms.png
+[qgis-rules]: {static}/images/2017/qgis-rules.png
 [gem-post]: https://blogs.openquake.org/hazard
