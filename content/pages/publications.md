@@ -1,8 +1,8 @@
 Title: Publications
 
-*Last updated 9 April 2021*
+*Last updated 2 November 2022*
 
-[CV][cv]
+[CV][cv] (*updated 30 September 2019*)
 
 
 [cv]: /pdfs/richard.h.styron_cv_sept_2019.pdf
@@ -10,7 +10,17 @@ Title: Publications
 
 ## In review
 
-*None at the moment*
+1. **Styron, R.**, _in review_, Contemporary Slip Rates of All Active Faults in 
+   the Indo-Asian Collision Zone, *Seismica*.  [Pre-print DOI: 
+   10.10512747.1][chn_pre_doi]. [pdf][chn_pre_pdf]
+
+[chn_pre_doi]: https://www.essoar.org/doi/10.1002/essoar.10512747.1
+[chn_pre_pdf]: https://www.essoar.org/pdfjs/10.1002/essoar.10512747.1
+
+1. Saxena, R., Dannberg, J., Gassmöller, R., Fraters, M., Heister, T., 
+   **Styron, R.**, _in review_, High-resolution mantle flow models reveal 
+   importance of plate boundary geometry and slab pull forces on generating 
+   tectonic plate motions, *Journal of Geophysical Research: Solid Earth*
 
 ## In revision
 

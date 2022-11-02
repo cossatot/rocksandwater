@@ -7,7 +7,7 @@ tags: geology, gis, tectonics, Tibet, geodesy
 ---
 
 
-In a [previous post]({static}tibet-blocks.md), I showed a movie of Tibetan
+In a [previous post]({filename}tibet-blocks.md), I showed a movie of Tibetan
 blocks motions from an inversion of geodetic and geologic data. The movie is
 informative, but as I have developed the inversion, I have relied on
 [GPlates](gplates.org) to be able to view the motions interactively, i.e. by
